@@ -15,4 +15,4 @@ This repository contains all the digital files related to the rhizoponic setup. 
 
 If you use the setup in your lab, please cite us as:
 
-- **Rhizoponics: a Novel Hydroponic Rhizotron for root system analyses on mature *Arabidopsis thaliana* plants.** Mathieu L., Lobet G., Tocquin P. and Périlleux C. (submitted)
+	**Rhizoponics: a Novel Hydroponic Rhizotron for root system analyses on mature *Arabidopsis thaliana* plants.** Mathieu L., Lobet G., Tocquin P. and Périlleux C. (submitted)
